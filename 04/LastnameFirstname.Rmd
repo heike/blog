@@ -1,0 +1,23 @@
+---
+title: "Reproducible Research"
+author: "Firstname Lastname"
+topic: "08"
+layout: post
+root: ../../../
+---
+
+
+## Background:
+
+In his 1995 paper
+[WaveLab and Reproducible Research ](http://statweb.stanford.edu/~donoho/Reports/1995/wavelab.pdf) David L Donoho is making a case for reproducible research. About 15 years laters, Donoho is re-evaluating the situation of reproducible research in the paper [15 Years of Reproducible Research in Computational Harmonic Analysis](http://statweb.stanford.edu/~donoho/Reports/2008/15YrsReproResch-20080426.pdf).
+
+Based on these two papers, write a blog post discussing the commonalities and changes in the themes and solutions.
+
+## Instructions:
+Save a **copy** of this file, replacing "Lastname" and "Firstname" with your own and *leave the original unedited*.
+
+In **your copy**, replace the `title:` and `author:` fields in the YAML above, while leaving the remaining fields intact. Remove the background and the instructions sections and write your blog post!
+
+Once you are done, **create a pull request** to upload your changes to the original repository!
+
